@@ -1,0 +1,42 @@
+[
+  {
+    "input": "What is the return policy for electronics?",
+    "expected_output": "Electronics can be returned within 15 days of delivery if unopened and in the original packaging. Opened electronics are non-returnable unless faulty, and refunds take 5 to 7 business days."
+  },
+  {
+    "input": "How long does express shipping take and what does it cost?",
+    "expected_output": "Express shipping takes 1 to 2 business days and costs $15. Orders placed before 2 PM are dispatched the same day."
+  },
+  {
+    "input": "Do international customers have to pay customs duties and import taxes?",
+    "expected_output": "Yes. For international shipping, customs duties and import taxes are the buyer's responsibility."
+  },
+  {
+    "input": "Can I cancel my order after placing it?",
+    "expected_output": "Orders can be cancelled within 1 hour of placement for a full refund. After 1 hour, the order enters fulfilment and cannot be cancelled."
+  },
+  {
+    "input": "What are the return rules for clothing?",
+    "expected_output": "Clothing can be returned within 30 days of delivery if the items are unworn, unwashed, and still have the original tags attached. Refunds are issued to the original payment method within 3 to 5 business days."
+  },
+  {
+    "input": "My food order arrived spoiled. What does the policy say?",
+    "expected_output": "Food and other perishable items are non-returnable, but if a food order arrives damaged or spoiled you should contact support within 24 hours for a full refund or replacement."
+  },
+  {
+    "input": "If I order express before 2 PM, when is it sent out?",
+    "expected_output": "Express orders placed before 2 PM are dispatched the same day."
+  },
+  {
+    "input": "Can I return assembled furniture, and who pays for the shipping?",
+    "expected_output": "Assembled furniture cannot be returned unless it is defective. For eligible furniture returns, the customer is responsible for return shipping costs."
+  },
+  {
+    "input": "How many countries do you ship to internationally?",
+    "expected_output": "The international shipping policy says the store ships to over 50 countries."
+  },
+  {
+    "input": "Do you offer gift wrapping?",
+    "expected_output": "The knowledge base does not mention any gift-wrapping policy."
+  }
+]
